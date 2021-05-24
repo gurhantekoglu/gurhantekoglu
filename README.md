@@ -1,3 +1,3 @@
 ### Hi there 🤙
 
-Trying to constantly improve himself in software and management issues. Willing to learn new programming languages. Student at Karadeniz Technical University, Department of Management Information Systems.
+Software developer, designer and data scientist. Willing to learn new programming languages. Student at Karadeniz Technical University, Department of Management Information Systems.
