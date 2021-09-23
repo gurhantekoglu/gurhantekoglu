@@ -4,7 +4,7 @@ I have been improving myself in the fields of based on enterprise architect and 
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p><img align="right" src="https://www.baykarsavunma.com/assets/img/akinci_slider.png" />
+</p><img align="right" src="https://www.baykarsavunma.com/assets/img/akinci_slider.png" width="500" height="250" />
 
 <b>Programming Languages and Tools</b>
 
