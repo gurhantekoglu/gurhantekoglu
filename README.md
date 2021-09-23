@@ -3,7 +3,7 @@
 I have been improving myself in the fields of based on enterprise architect and software development principles, layered software development with the understanding object-oriented programming, database management systems. I am disciplined, compatible with teamwork and attached ethical values.
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp; <img align="right" src="https://i2.milimaj.com/i/milliyet/75/1200x675/5fcb945d55427f09d8de67a1.gif" width="500" height="350" />
+  <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <b>Programming Languages and Tools</b>
@@ -18,3 +18,5 @@ I have been improving myself in the fields of based on enterprise architect and 
 <code><img height="20" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 <code><img height="20" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
+
+<img align="right" src="https://i2.milimaj.com/i/milliyet/75/1200x675/5fcb945d55427f09d8de67a1.gif"/>
