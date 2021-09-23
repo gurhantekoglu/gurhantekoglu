@@ -1,10 +1,12 @@
 # Hi there 🤙
 
-Software developer and designer. Willing to learn new programming languages. Student at Karadeniz Technical University, Department of Management Information Systems.
+I have been improving myself in the fields of based on enterprise architect and software development principles, layered software development with the understanding object-oriented programming, database management systems. I am disciplined, compatible with teamwork and attached ethical values.
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+<img align="right" src="https://i2.milimaj.com/i/milliyet/75/0x0/6066fe3486b247086c7c1f13.gif" width="40" height="40" />
 
 <b>Programming Languages and Tools</b>
 
