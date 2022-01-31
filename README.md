@@ -20,6 +20,6 @@ I have been improving myself in the fields of based on enterprise architect and 
 <img align="left" width="26" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png">
 <img align="left" width="26" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png">
 
-<br>
+<br><br>
 
 <img align="center" src="https://i2.milimaj.com/i/milliyet/75/0x0/6066fe3486b247086c7c1f13.gif"/>
