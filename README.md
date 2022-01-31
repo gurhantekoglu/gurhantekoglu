@@ -8,16 +8,16 @@ I have been improving myself in the fields of based on enterprise architect and 
 
 <b>Programming Languages and Tools</b>
 
-<code><img height="20" src="https://www.mytoworld.com/wp-content/uploads/2020/11/pyhton-nedir.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
-<code><img height="20" src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png"></code>
-<code><img height="20" src="https://www.erenalgan.com.tr/wp-content/uploads/2019/11/PHP-PNG-File.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
-<code><img height="20" src="https://react.semantic-ui.com/logo.png"></code>
-<code><img height="20" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png"></code>
-<code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
-<code><img height="20" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
+<img width="26" src="https://www.mytoworld.com/wp-content/uploads/2020/11/pyhton-nedir.png">
+<img width="26" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
+<code><img width="26" src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png"></code>
+<code><img width="26" src="https://www.erenalgan.com.tr/wp-content/uploads/2019/11/PHP-PNG-File.png"></code>
+<code><img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
+<code><img width="26" src="https://react.semantic-ui.com/logo.png"></code>
+<code><img width="26" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png"></code>
+<code><img width="26" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
+<code><img width="26" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
+<code><img width="26" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
 
 <img align="center" src="https://i2.milimaj.com/i/milliyet/75/0x0/6066fe3486b247086c7c1f13.gif"/>
