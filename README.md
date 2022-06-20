@@ -19,5 +19,3 @@ I have been improving myself in the fields of based on enterprise architect and 
 <code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 <code><img height="20" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
-
-<img align="center" src="https://i2.milimaj.com/i/milliyet/75/0x0/6066fe3486b247086c7c1f13.gif"/>
