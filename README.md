@@ -15,6 +15,9 @@ I have been improving myself in the fields of based on enterprise architect and 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
 <code><img height="20" src="https://react.semantic-ui.com/logo.png"></code>
+<code><img height="20" src="https://5.imimg.com/data5/SELLER/Default/2022/7/FT/WW/IM/7756102/oracle-database-enterprise-edition-license-1-processor-500x500.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 <code><img height="20" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
+<code><img height="20" src="https://sue.eu/wp-content/uploads/sites/6/2022/07/jenkins-logo-920x920-sue-v02.png"></code>
