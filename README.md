@@ -2,7 +2,7 @@
 
 I am a self-motivated and learning passionate person. Analytical thinking and developing others with his knowledge areas are the main strengths of me. I believes that every day, my should be more equipped than previous day. Continuous learning and sharing experience are the motivation boosters for me.
 
-I have been improving myself in the fields of based on enterprise architect and software development principles, layered software development with the understanding object-oriented programming, database management systems. I am disciplined, compatible with teamwork and attached ethical values.
+I develop software in suitable with enterprise architecture, adhering to universal software development principles. I work on object-oriented programming, database management and cybersecurity. I am innovative, disciplined, compatible with teamwork and committed to ethical values.
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
