@@ -20,6 +20,7 @@ I develop software in suitable with enterprise architecture, adhering to univers
 <code><img height="30" src="https://5.imimg.com/data5/SELLER/Default/2022/7/FT/WW/IM/7756102/oracle-database-enterprise-edition-license-1-processor-500x500.png"></code>
 <code><img height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 <code><img height="30" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="30" src="https://cdnlogo.com/logos/j/95/jenkins.svg"></code>
