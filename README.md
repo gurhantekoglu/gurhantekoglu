@@ -21,6 +21,8 @@ I develop software in suitable with enterprise architecture, adhering to univers
 <code><img height="30" src="https://bbozkurt.files.wordpress.com/2012/02/1ab.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png"></code>
+<code><img height="30" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1917px-OpenShift-LogoType.svg.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="30" src="https://cdnlogo.com/logos/j/95/jenkins.svg"></code>
 <code><img height="30" src="https://miro.medium.com/v2/resize:fit:319/1*-YhVA6qN4e7zjlxzpZ5Zdg.png"></code>
