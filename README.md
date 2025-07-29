@@ -4,10 +4,11 @@ I'm a self-motivated developer passionate about continuous learning, clean archi
 
 ## 🔍 I focus on:
 
-- **Enterprise-level software development**  
-- **Object-Oriented Programming (OOP)**  
-- **Database design & management**  
-- **Cybersecurity best practices**
+- **Enterprise-level software development**
+- **Software Architecture**
+- **Object-Oriented Programming (OOP)**
+- **Database design & management**
+- **Cybersecurity**
 
 ## 💡 About Me
 
