@@ -1,8 +1,23 @@
 # Hi there!
 
-I am a self-motivated and learning passionate person. Analytical thinking and developing others with his knowledge areas are the main strengths of me. I believes that every day, my should be more equipped than previous day. Continuous learning and sharing experience are the motivation boosters for me.
+I'm a self-motivated developer passionate about continuous learning, clean architecture, and sharing knowledge.
 
-I develop software in suitable with enterprise architecture, adhering to universal software development principles. I work on object-oriented programming, database management and cybersecurity. I am innovative, disciplined, compatible with teamwork and committed to ethical values.
+## 🔍 I focus on:
+
+- **Enterprise-level software development**  
+- **Object-Oriented Programming (OOP)**  
+- **Database design & management**  
+- **Cybersecurity best practices**
+
+## 💡 About Me
+
+I believe in growing a bit every day — both technically and personally.  
+I build clean, scalable, and maintainable systems with an eye on long-term value.
+
+---
+
+🌱 Always learning — always building.  
+🤝 Let's connect and collaborate!
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/gurhantekoglu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
