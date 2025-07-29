@@ -1,4 +1,4 @@
-# Hi there 🤙
+# Hi there!
 
 I am a self-motivated and learning passionate person. Analytical thinking and developing others with his knowledge areas are the main strengths of me. I believes that every day, my should be more equipped than previous day. Continuous learning and sharing experience are the motivation boosters for me.
 
