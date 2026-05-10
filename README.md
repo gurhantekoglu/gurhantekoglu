@@ -2,33 +2,16 @@
 
 I'm a senior software specialist focused on building scalable, secure, and maintainable enterprise systems.
 
-I work primarily in distributed systems, financial services, and backend-heavy architectures where reliability and performance matter.
+I work in distributed systems and system design, focusing on reliability, performance, and scalable architecture.
 
 ## 🧠 What I focus on
 
 - Enterprise backend systems (.NET / Java ecosystems)
 - Software architecture & system design
-- Distributed systems & messaging (Kafka, RabbitMQ)
-- Database design & optimization (PostgreSQL, Oracle, MySQL)
+- Distributed systems & messaging
+- Database design & optimization
 - Security-first engineering practices
-- Cloud-native & containerized applications (Docker, Kubernetes)
-
-## ⚙️ Tech Stack
-
-Backend:
-Java • .NET Core • Spring Boot • C#
-
-Frontend:
-React
-
-Databases:
-PostgreSQL • Oracle • MySQL • MongoDB
-
-Messaging / Infra:
-Kafka • RabbitMQ • Docker • Kubernetes • OpenShift
-
-Testing & CI/CD:
-JUnit • Jenkins
+- Cloud-native & containerized applications
 
 ## 💡 About me
 
