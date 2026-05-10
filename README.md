@@ -36,10 +36,6 @@ I care about building systems that don’t just work — but scale, recover, and
 
 Currently working in enterprise banking systems and exploring AI-driven architecture patterns for next-generation software platforms.
 
-## 🌱 Always learning, always iterating.
-
-Let’s build something meaningful.
-
 ## 🔗 Connect
 
 <p>
