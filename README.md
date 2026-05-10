@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a backend software engineer focused on building scalable, secure, and maintainable enterprise systems.
+I'm a senior software specialist focused on building scalable, secure, and maintainable enterprise systems.
 
 I work primarily in distributed systems, financial services, and backend-heavy architectures where reliability and performance matter.
 
