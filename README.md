@@ -4,7 +4,7 @@ I'm a senior software specialist focused on building scalable, secure, and maint
 
 I work in distributed systems and system design, focusing on reliability, performance, and scalable architecture.
 
-## 🧠 What I focus on
+## What I focus on
 
 - Enterprise backend systems (.NET / Java ecosystems)
 - Software architecture & system design
@@ -13,13 +13,13 @@ I work in distributed systems and system design, focusing on reliability, perfor
 - Security-first engineering practices
 - Cloud-native & containerized applications
 
-## 💡 About me
+## About me
 
 I care about building systems that don’t just work — but scale, recover, and evolve under real production pressure.
 
 Currently working in enterprise banking systems and exploring AI-driven architecture patterns for next-generation software platforms.
 
-## 🔗 Connect
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/gurhantekoglu">
